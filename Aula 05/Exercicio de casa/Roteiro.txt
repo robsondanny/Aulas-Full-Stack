@@ -1,0 +1,14 @@
+FORMULÁRIO DE CADASTRO
+
+
+PARA ALUNOS
+nome, matricula, data de nascimento, tamanho do fardamento,
+CPF.
+
+
+PARA PRODUTOS
+nome, descrição, foto, preço, quantidade.
+
+
+PARA USUÁRIOS
+nome, email, senha, confirmação de senha.

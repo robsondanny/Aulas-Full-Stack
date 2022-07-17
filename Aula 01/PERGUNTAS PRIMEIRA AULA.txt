@@ -1,0 +1,12 @@
+- O que é desenvolvimento web? -
+se trata da criação de um software que estar conectado a uma rede.
+
+- frontend vs fullstack -
+frontend é basicamente é a interação entre o usuário e aplicação executada;
+fullstack é um individuo que domina tanto o frontend quanto o beckend.
+
+- protocolo http -
+é um protocolo de transferência de hypertexto.
+
+- o que é html? -
+é a linguagem que irá exibir, organizar e estruturar as informáções.

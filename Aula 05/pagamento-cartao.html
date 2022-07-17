@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Pague no crédito</h1>
+    <hr>
+    <form action="">
+        <label for="numero">Número</label><br>
+        <input id="numero" type="text" required placeholder="0000 0000 0000 0000">
+        <br>
+
+        <label for="titular">Titular</label><br>
+        <input id="titular" type="text" required placeholder="CHIQUIM A F SILVA">
+        <br>
+
+        <label for="cpf">CPF</label><br>
+        <input id="cpf" type="text" required placeholder="123.123.123-12" pattern="[0-9]{11}">
+        <br>
+
+        <label for="mes">Validade</label><br>
+        <select id="mes">
+            <option selected disabled>-- Mes --</option>
+            <option>Janeiro</option>
+            <option>Fevereiro</option>
+        </select>
+        <select id="ano">
+            <option selected disabled>-- Ano --</option>
+            <option>2022</option>
+            <option>2023</option>
+        </select>
+        <br>
+
+        <label for="cvv">CVV</label><br>
+        <input id="cvv" type="text" minlength="3" maxlength="3" required placeholder="000" pattern="[0-9]{3}">
+        <br>
+
+        <button>Enviar</button>
+    </form>
+</body>
+</html>

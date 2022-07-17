@@ -1,0 +1,7 @@
+<Card>
+    <Number>1234 1234 1234 1234</Number>
+    <Customer>FRANCISCO O SILVA</Customer>
+    <Date>09/23</Date>
+    <CVV>123</CVV>
+    <CPF>123.123.123-12</CPF>
+</Card>

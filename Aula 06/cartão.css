@@ -1,0 +1,41 @@
+body {
+    width: 80%;
+    margin: auto;
+    font-size: 1.5rem;
+}
+
+section {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+
+}
+
+div {
+    width: 100%;
+}
+
+form {
+    display: block;
+    background-color: #cccccc;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 5px 15px 5px #000000;
+}
+
+input, button, select {
+    font-size: 1.5rem;
+    height: 32px;
+    border: 1px solid #333333;
+}
+
+input { 
+    width: 99%;
+}
+
+button {
+    margin-top: 20px;
+    width: 100%;
+    background-image: linear-gradient(to right, #38761d, #a64da6)
+    color: 
+}
